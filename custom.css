@@ -227,12 +227,15 @@ ts-message .action_hover_container .btn_msg_action,
 }
 
 .ql-placeholder {
-   color: var(--text);
+   /*color: var(--text);*/
+   color: yellow;
+	
 }
 
 .ql-container.texty_single_line_input {
   background-color: var(--background-elevated);
   color: var(--text);
+  opacity: 0.875;
 }
 
 .ql-container .ql-editor p {
@@ -692,8 +695,4 @@ ts-jumper ts-jumper-container {
 .ql-editor {
     background: #000;
     color: #999;
-	}
-.ql-placeholder {
-    color: #f9f9f9;
-    opacity: 0.875;
 	}
