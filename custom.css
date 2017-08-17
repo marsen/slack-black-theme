@@ -693,3 +693,7 @@ ts-jumper ts-jumper-container {
     background: #000;
     color: #999;
 	}
+.ql-placeholder {
+    color: #f9f9f9;
+    opacity: 0.875;
+	}
