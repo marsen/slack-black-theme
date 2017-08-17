@@ -688,3 +688,7 @@ ts-jumper, ts-jumper.active {
 ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
 }
+
+.ql-editor {
+    color: #999;
+	}
