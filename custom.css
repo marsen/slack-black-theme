@@ -690,5 +690,6 @@ ts-jumper ts-jumper-container {
 }
 
 .ql-editor {
+    background: #000;
     color: #999;
 	}
