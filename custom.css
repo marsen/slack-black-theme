@@ -510,6 +510,17 @@ ts-message .reply_bar:hover {
 .special_formatting_quote .quote_bar {
    background: var(--border-bright) !important;
 }
+.ql-editor {
+    background: #2d2d2d;
+    color: #999;
+	}
+.selectable_flex_pane_padder{
+    color: #f9f9f9 !important;
+}
+#details_tab .channel_page_section{
+    background: #2d2d2d !important;
+}
+
 
 #details_toggle.active:hover, #recent_mentions_toggle.active:hover,
 #stars_toggle.active:hover {
@@ -691,15 +702,3 @@ ts-jumper, ts-jumper.active {
 ts-jumper ts-jumper-container {
   box-shadow: 0 5px 20px rgba(0,0,0,1);
 }
-
-.ql-editor {
-    background: #2d2d2d;
-    color: #999;
-	}
-.selectable_flex_pane_padder{
-    color: #f9f9f9;
-}
-#details_tab .channel_page_section{
-    background: #2d2d2d;
-}
-
