@@ -228,7 +228,7 @@ ts-message .action_hover_container .btn_msg_action,
 
 .ql-placeholder {
    /*color: var(--text);*/
-   color: #ccdd33;
+   color: #ccdd33 !important; 
    opacity: .575;
    -webkit-filter: grayscale(50%);	
 }
