@@ -511,8 +511,8 @@ ts-message .reply_bar:hover {
    background: var(--border-bright) !important;
 }
 .ql-editor {
-    background: #CCCC44 !important;
-    color: #f9f9f9 !important;
+    background: #D2D2D2 !important;
+    color: #CCCC44 !important;
     opacity:0.5;
     -webkit-filter: grayscale(50%);
 }
