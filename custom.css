@@ -511,8 +511,9 @@ ts-message .reply_bar:hover {
    background: var(--border-bright) !important;
 }
 .ql-editor {
-    background: #2d2d2d;
+    background: #CCCC44 !important;
     color: #f9f9f9 !important;
+    opacity:0.5;
     -webkit-filter: grayscale(50%);
 }
 #details_tab .channel_page_section .section_title {
