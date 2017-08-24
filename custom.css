@@ -228,8 +228,9 @@ ts-message .action_hover_container .btn_msg_action,
 
 .ql-placeholder {
    /*color: var(--text);*/
-   color: yellow;
-	
+   color: #D2D2D2;
+   opacity: .875;
+   -webkit-filter: grayscale(80%);	
 }
 
 .ql-container.texty_single_line_input {
@@ -511,10 +512,8 @@ ts-message .reply_bar:hover {
    background: var(--border-bright) !important;
 }
 .ql-editor {
-    background: #D2D2D2 !important;
-    color: #CCCC44 !important;
-    opacity:0.5;
-    -webkit-filter: grayscale(50%);
+      background: #2d2d2d !important;
+      color: #999 !important;
 }
 #details_tab .channel_page_section .section_title {
     color: #f9f9f9 !important;
