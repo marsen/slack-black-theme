@@ -512,7 +512,7 @@ ts-message .reply_bar:hover {
 }
 .ql-editor {
     background: #2d2d2d;
-    color: #999;
+    color: #f9f9f9 !important;
 	}
 #details_tab .channel_page_section .section_title {
     color: #f9f9f9 !important;
