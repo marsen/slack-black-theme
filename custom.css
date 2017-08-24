@@ -228,9 +228,9 @@ ts-message .action_hover_container .btn_msg_action,
 
 .ql-placeholder {
    /*color: var(--text);*/
-   color: #D2D2D2;
-   opacity: .875;
-   -webkit-filter: grayscale(80%);	
+   color: #ccdd33;
+   opacity: .575;
+   -webkit-filter: grayscale(50%);	
 }
 
 .ql-container.texty_single_line_input {
@@ -240,7 +240,8 @@ ts-message .action_hover_container .btn_msg_action,
 }
 
 .ql-container .ql-editor p {
-  color: var(--text);
+  /*color: var(--text);*/
+    color: #ccdd33;
 }
 
 #quick_switcher_btn:active, #quick_switcher_btn:focus, #quick_switcher_btn:hover {
