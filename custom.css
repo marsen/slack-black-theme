@@ -514,7 +514,7 @@ ts-message .reply_bar:hover {
     background: #2d2d2d;
     color: #999;
 	}
-.selectable_flex_pane_padder{
+#details_tab .channel_page_section .section_title {
     color: #f9f9f9 !important;
 }
 #details_tab .channel_page_section{
