@@ -139,7 +139,9 @@ ts-message:hover {
 ts-message:last-child {
   margin-bottom: 1px !important;
 }*/
-
+.c-scrollbar__child{
+    background: var(--background-hover);
+}
 #messages_container::after {
    background: none !important;
 }
